@@ -1727,7 +1727,6 @@ a{
 }
 
 <--- Latest updates --->
-
 .blog-home3 {
   font-family: "Montserrat", sans-serif;
   color: #8d97ad;
@@ -1736,6 +1735,7 @@ a{
 
 .blog-home3 h1, .blog-home3 h2, .blog-home3 h3, .blog-home3 h4, .blog-home3 h5, .blog-home3 h6 {
   color: #3e4555;
+  font-weight: bold;
 }
 
 .blog-home3 h5 {
@@ -1810,5 +1810,26 @@ a{
 
 .pt-5, .py-5 {
   padding-top: 3rem!important;
+}
+
+div.date-pos a:hover {
+  color: #01001c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h3 a:hover {
+  color: #c68800;
+  text-decoration: none;
+}
+
+div.date-pos a {
+  color: #202530;
+  text-decoration: none;
+}
+
+h3 a {
+  color: #202530;
+  text-decoration: none;
 }
 
