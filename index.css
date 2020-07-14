@@ -1901,3 +1901,6 @@ h3 a {
   text-decoration: none;
 }
 
+.centered a:hover{
+    color:white;
+}
