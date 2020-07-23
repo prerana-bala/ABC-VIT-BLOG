@@ -232,57 +232,7 @@ li{
         width: 250px;
         height: 200px;
     }
-    .pic-one
-{
-    background-image: url(Assets/1.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    border-radius: 20px;
-    max-width: 200px;
-    height: 150px;
-    margin:0 auto;
-}
-.pic-two
-{
-    background-image: url(Assets/9.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    border-radius: 20px;
-    max-width: 200px;
-    height: 150px;
-    margin:0 auto;
-}
-.pic-three
-{
-    background-image: url(Assets/3.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    border-radius: 20px;
-    max-width: 200px;
-    height: 150px;
-    margin:0 auto;
-}
-.pic-four
-{
-    background-image: url(Assets/4.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    border-radius: 20px;
-    max-width: 200px;
-    height: 150px;
-    margin:0 auto;
-}
-.pic-five
-{
-    background-image: url(Assets/5.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    border-radius: 20px;
-    max-width: 200px;
-    height: 150px;
-    margin:0 auto;
-}
-    .extra h5
+     .extra h5
     {
         font-family: Roboto;
         font-style: normal;
@@ -290,9 +240,6 @@ li{
     }
     .extra img
     {
-        width: 150px;
-        height: 120px;
-        margin-top: 20%;
         border-radius: 20px;
     }
     .first
