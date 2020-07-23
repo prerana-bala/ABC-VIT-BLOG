@@ -1709,26 +1709,6 @@ margin-left: -20px;
 @media (max-width: 850px) {
   .centered{
     font-size:3vw ;
-      
-
-
-    <style>
-    .centered {
-      position: absolute;
-      top: 30%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color:white;
-      text-align: center;
-      font-size: 4vw;
-    }
-
-    @media (max-width: 850px) {
-      .centered{
-        font-size:3vw ;
-      }
-    }
-
 
     .centered-1 {
       position: absolute;
